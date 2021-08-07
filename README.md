@@ -6,7 +6,7 @@
   
 - I’m currently learning data structures and other stuff that I need in my computer science degree
   plan, so I can be a competant programmer. Also some personal projects that range from web-building, 
-  and creating an environment that seeks to help peers with mental health.
+  to creating an environment in my campus that seeks to help peers with mental health.
 
 - I’m looking to get an entry level internship so I can get real exposure and keep developing my software skills.
 
